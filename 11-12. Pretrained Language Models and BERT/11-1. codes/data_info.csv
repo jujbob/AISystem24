@@ -1,0 +1,11 @@
+feature,information,type
+ID,고유번호,object
+Utterance,발화문,object
+Speaker,발화자,object
+Dialogue_ID,Dialogue 구분 번호,int
+Target,감정 ,object
+,,
+,,
+,,
+,,
+,https://dacon.io/competitions/official/236027/overview/description,
